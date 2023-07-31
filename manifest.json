@@ -9,9 +9,7 @@
 		"*://*.youtube.com/*",
 		"*://*.youtu.be/*"
 	],
-	"permissions": [
-		"webNavigation"
-	],
+	"permissions": [],
 	"content_scripts": [
 		{
 			"matches": [
