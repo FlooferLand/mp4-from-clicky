@@ -3,7 +3,7 @@
     "name": "MP4 from clicky",
 	"author": "FlooferLand",
     "description": "Simple extensionlet to downloads the current YouTube video when clicked",
-    "version": "1.0",
+    "version": "1.0.1",
 
 	"host_permissions": [
 		"*://*.youtube.com/*",
