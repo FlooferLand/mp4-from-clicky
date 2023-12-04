@@ -1,5 +1,10 @@
 # MP4 from clicky
 
+### No longer updated!
+This extension probably sitll works, but I switched to the Vivaldi browser so I now use Chromium.
+Adding "pp" (haha funny word) before the ".com" on YouTube usually works well enough for me when it comes to downloading videos.
+
+### Info
 A silly open-source extensionlet that sends your video trough an ad-free YouTube downloader when clicked. <br/>
 There are only 20ish lines of code. <br/>
 
